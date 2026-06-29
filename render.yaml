@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smartdiet
+    runtime: static
+    buildCommand: ""
+    publishPath: "."
